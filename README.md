@@ -15,11 +15,14 @@ The primary objectives of the course activities are to:
 - Understand the principles and techniques of **data prediction** and modeling.
 
 ### Repository Contents
-1. **Notebooks/**: Folder containing Jupyter notebooks for each activity and project.
-2. **Data/**: Directory storing datasets used in the activities and projects.
-3. **Scripts/**: Folder containing Python scripts and modules developed during the course.
-4. **Visualizations/**: Directory containing visualizations generated during data analysis.
-5. **README.md**: This file, providing an overview of the course activities and repository contents.
+1. **Jackson_Mukeshimana_Linear_Regression_Solution.ipynb/**: Folder containin Linear Regression Google Colab.
+2. **Google Colab link/**: Directory storing the link for the project.
+3. **Streamlit_app_visualization.ipynb/**: Folder containing Python scripts and modules developed during the course.
+4. **app.py/**: Directory containing visualizations generated during data analysis.
+5. **nyu.png/**: The Picture we are using to be deployed on the top of our data set
+6. **report.html/**: The Directory containing the necessary contents which would help us for running the on the Streamlit App
+7. **requirements.txt/**: The Directory containing different options for being able to display our app on the Streamlit Website
+8. **README.md**: This file, providing an overview of the course activities and repository contents.
 
 ### Activities Overview
 1. **Pandas Basics**: Introduction to **pandas** library for data manipulation and analysis.
@@ -40,7 +43,7 @@ To explore the course activities:
 5. Use the provided datasets in the **Data** directory for analysis and modeling.
 
 ### Contributors
-- **[Your Name]**: Data Science Enthusiast
+- **[Jackson Mukeshimana]**: Data Science Enthusiast
 
 ### License
 MIT License
