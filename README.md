@@ -1,4 +1,4 @@
-# App-vz
+# Linear-Regression-App-Visualization
 
 ---
 ## Data Science for Everyone: Course Activities
