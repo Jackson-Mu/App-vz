@@ -43,7 +43,7 @@ To explore the course activities:
 5. Use the provided datasets in the **Data** directory for analysis and modeling.
 
 ### Contributors
-- **[Jackson Mukeshimana]**: Data Science Enthusiast
+- **[Jackson]**: Data Science Enthusiast
 
 ### License
 MIT License
